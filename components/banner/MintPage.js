@@ -104,7 +104,7 @@ const MintPage = () => {
                 </h4>
                 <a
                   onClick={() => walletBridge1.showWeb3Modal()}
-                  className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#C2C2C2" }}
+                  className="btn btn-success m-r-20 btn-md m-t-30 " style={{ backgroundColor: "#226534" }}
                 >
                   Connect Wallet
                 </a>
